@@ -19,5 +19,9 @@
     "src": "/static/fingerprint288.png",
     "sizes": "288x288",
     "type": "image/png"
+  }, {
+    "src": "/static/fingerprint512.png",
+    "sizes": "512x512",
+    "type": "image/png"
   }]
 }
