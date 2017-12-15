@@ -5,7 +5,7 @@ click==6.7
 colorama==0.3.9
 feedparser==5.2.1
 Flask==0.12.2
-Flask-Cors==3.0.3
+Flask-SSLify==0.1.5
 geopy==1.11.0
 gunicorn==19.7.1
 idna==2.6
